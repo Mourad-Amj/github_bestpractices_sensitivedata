@@ -26,9 +26,9 @@ This repository is part of a tech talk on "Best Practices for Managing Sensitive
    git clone https://github.com/Mourad-Amj/github_bestpractices_sensitivedata.git
    
 2. **Install the Required Libraries**:
-```bash
+   ```bash
     pip install -r requirements.txt
-```
+   ```
 3. **Setting Up Environment Variables**:
     Make a copy of the sample.env file, rename it to .env, and fill in your secrets. For example:
    ```plaintext
