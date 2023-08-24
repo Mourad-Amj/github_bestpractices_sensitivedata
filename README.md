@@ -4,7 +4,7 @@
 
 This repository is part of a tech talk on "Best Practices for Managing Sensitive Data in Python Projects." The primary focus is on the prevention of sensitive data exposure, which is a prevalent security vulnerability in modern software development. With the increasing reliance on API keys, database credentials, and other secrets in the cloud era, it's crucial to have an effective and secure management strategy. This guide and demonstration will highlight the use of the `dotenv` library in Python projects for this purpose.
 
-🔗 **Google Slides**: [Presentation Slides]([https://example.com/link-to-google-slides](https://docs.google.com/presentation/d/1iVYctcezqxkizANRpGGKyFZ1Cz1OP7YpaugY22MPzKk/edit?usp=sharing))
+🔗 **Google Slides**: [Presentation Slides]([https://docs.google.com/presentation/d/1iVYctcezqxkizANRpGGKyFZ1Cz1OP7YpaugY22MPzKk/edit?usp=sharing])
 
 ## Why Use `dotenv`?
 
